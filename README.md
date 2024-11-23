@@ -48,3 +48,17 @@ The business requirements of the project are as follows:
    - Path: `/menu`
 3. **Cart**
    - Path: `/cart`
+
+# Technologies Used
+
+1. **React**  
+   - A JavaScript library for building user interfaces.
+   - Enables the creation of reusable components for a dynamic user experience.
+
+2. **React Router**  
+   - Used for navigation and routing in the application.
+   - Includes support for data loading to enhance route handling.
+
+3. **TailwindCSS**  
+   - A utility-first CSS framework.
+   - Provides pre-defined classes for styling and responsive design.
